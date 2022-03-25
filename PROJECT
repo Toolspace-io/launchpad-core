@@ -1,0 +1,6 @@
+domain: launchpad.toolspace.io
+layout:
+- go.kubebuilder.io/v3
+projectName: launchpad-core
+repo: github.com/Toolspace-io/launchpad-core
+version: "3"
